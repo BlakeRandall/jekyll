@@ -1,0 +1,12 @@
+.git/
+.gitignore
+.github/
+LICENSE
+README.md
+Dockerfile
+.dockerignore
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+kubernetes.yml
